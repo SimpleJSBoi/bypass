@@ -1,0 +1,19 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: data:text/html;charset=utf-8,<button onclick="go()">Go To Site...</button><script type="text/javascript">function go() {var url = prompt("Enter URL");window.location.href = "https://" + url;}</script>
+Subject: 
+Date: Sun, 20 Feb 2022 21:56:28 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--qJNBKJPcGyPOSG1ORGDbB61dJTqrC4S29rf7sIXufY----"
+
+
+------MultipartBoundary--qJNBKJPcGyPOSG1ORGDbB61dJTqrC4S29rf7sIXufY----
+Content-Type: text/html
+Content-ID: <frame-FC03A7C48FFABA8017B675DDE2E1D4A9@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: data:text/html;charset=utf-8,<button onclick="go()">Go To Site...</button><script type="text/javascript">function go() {var url = prompt("Enter URL");window.location.href = "https://" + url;}</script>
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><button>Go To Site...</button></body></html>
+------MultipartBoundary--qJNBKJPcGyPOSG1ORGDbB61dJTqrC4S29rf7sIXufY------
